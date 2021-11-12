@@ -7,4 +7,5 @@
   margin: 0 auto 0;
   /* выше для экранов больше 1440px отцентрировали весь контент */
   font-family: Roboto, Arial, sans-serif;
+  color: white;
 }

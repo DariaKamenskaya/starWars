@@ -1,0 +1,9 @@
+.nav__link {
+  margin: 0;
+  padding-right: 11px;
+  text-decoration: none;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: white;
+}
