@@ -1,0 +1,40 @@
+.button-play {
+  margin: 52px 0;
+  border: 0;
+  background: linear-gradient(90deg, #FB641A 0%, #FC3309 100%);
+  border-radius: 300px;
+  font-size: 14px;
+  line-height: 16px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  padding: 25px 34px;
+  padding-right: 90px;
+  position: relative;
+}
+
+.button-play:after {
+  position: absolute;
+  right: 0;
+  top: 0;
+  content: '';
+  display: block;
+  width: 65px;
+  height: 65px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 1);
+  background-image: url(../../images/Polygon.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.button-play:before {
+  position: absolute;
+  right: -8px;
+  top: -8px;
+  content: '';
+  display: block;
+  width: 81px;
+  height: 81px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.3);;
+}

@@ -1,5 +1,5 @@
 @font-face {
-  font-family: 'Proxima Nova Black';
+  font-family: 'Proxima Nova';
   src:  url('../fonts/proxima_nova_black.woff2') format('woff2'), /* Super Modern Browsers */
         url('../fonts/proxima_nova_black.woff') format('woff'); /* Firefox >= 3.6, any other modern browser */
 }
