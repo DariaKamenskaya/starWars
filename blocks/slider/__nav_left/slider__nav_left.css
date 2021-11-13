@@ -1,0 +1,13 @@
+.slider__nav_left {
+  margin: 0;
+  width: 30px;
+  height: 30px;
+  border: none;
+  background: transparent url(../../../images/arrow-left.svg) no-repeat center;
+  margin-right: 15px;
+  cursor: pointer;
+}
+
+.slider__nav_left span {
+  display: none;
+}
