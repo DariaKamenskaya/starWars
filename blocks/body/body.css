@@ -2,7 +2,7 @@
   background: black url(../../images/main-bg.png) top right 90% no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  min-width: 250px;
+  min-width: 300px;
   /* выше установлена минимальная ширина страницы с учетом внутренних отступов */
   max-width: 1440px;
   /* выше установили ограничение по максимальной ширине с учетом внутренних отступов*/

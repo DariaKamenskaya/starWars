@@ -1,0 +1,10 @@
+.nav {
+  margin: 0;
+}
+
+@media screen and (max-width: 700px)  {
+  .nav {
+    display: flex;
+    flex-direction: column;
+  }
+}

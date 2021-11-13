@@ -7,3 +7,9 @@
   font-size: 16px;
   color: white;
 }
+
+@media screen and (max-width: 700px)  {
+  .nav__link {
+    margin-bottom: 10px;
+  }
+}

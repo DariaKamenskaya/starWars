@@ -1,4 +1,22 @@
 .description {
-    margin: 80px auto 0; 
-    margin-left: 190px;
+  margin: 80px auto 0; 
+  margin-left: 190px;
+}
+
+@media screen and (max-width: 1100px)  {
+  .description {
+    margin-left: 100px;
+  }
+}
+
+@media screen and (max-width: 800px)  {
+  .description {
+    margin-left: 50px;
+  }
+}
+
+@media screen and (max-width: 630px)  {
+  .description {
+    margin-left: 30px;
+  }
 }

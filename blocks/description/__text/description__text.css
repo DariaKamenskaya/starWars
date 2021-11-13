@@ -1,10 +1,19 @@
 .description__text {
   margin: 25px 0;
-  font-family: Roboto;
-  font-style: normal;
-  font-weight: normal;
   font-size: 18px;
   line-height: 150%;
   color: #AFAFAF;
-	max-width: 570px;
+  max-width: 570px;
+}
+
+@media screen and (max-width: 800px)  {
+  .description__text {
+    max-width: 450px;
+  }
+}
+
+@media screen and (max-width: 600px)  {
+  .description__text {
+    line-height: 120%;
+  }
 }
