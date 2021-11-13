@@ -24,3 +24,6 @@
 @import url(../blocks/slider/__title/slider__title.css);
 @import url(../blocks/slider/__rating/slider__rating.css);
 @import url(../blocks/slider/__rating-label/slider__rating-label.css);
+@import url(../blocks/slider/__rating-stars/slider__rating-stars.css);
+@import url(../blocks/slider/__rating-star/slider__rating-star.css);
+@import url(../blocks/slider/__rating-star/_o/slider__rating-star_o.css);

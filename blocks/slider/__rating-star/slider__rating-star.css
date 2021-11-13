@@ -1,0 +1,7 @@
+.slider__rating-star {
+  margin: 0;
+  background: url(../../../images/star.svg) no-repeat center;
+  width: 12px;
+  height: 12px;
+  display: inline-block;
+}
