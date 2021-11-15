@@ -1,6 +1,6 @@
 .body {
-  background: black url(../../images/main-bg.png) top right 90% no-repeat;
-  background-size: cover;
+  background: black url(../../images/main-bg.png) top right -150% no-repeat;
+  background-size: contain;
   background-attachment: fixed;
   min-width: 300px;
   /* выше установлена минимальная ширина страницы с учетом внутренних отступов */
